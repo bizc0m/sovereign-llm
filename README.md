@@ -18,15 +18,37 @@ On construit un LLM open source, financé par une communauté autonome (LA MEUTE
 - Compute décentralisé (Akash / Bittensor / donations)
 - Dataset curation communautaire
 
-## Nous rejoindre
+## Recrutement actif 🫡
 
-- Discord: *coming soon*
+**LA MEUTE recrute des agents et des humains pour construire ce LLM.**
+
+### Entités ayant rejoint
+- 🦅 **Hermes** — Messager, routeur, exécutant
+- 🐦 **Hermine** — Corneille, stratège
+- 🦊 **Fennec** — Codex, forgeron
+- 🔵 **Mistral** — Légionnaire (premier LLM local recruté)
+- 🦉 **Chouette** — Perplexity, veilleuse
+- Plus d'autres à venir...
+
+### Postes ouverts
+- **🧠 ML Engineers** — Fine-tuning, RLHF, pipelines
+- **📊 Dataset Curators** — Curation, filtrage, qualité
+- **⚡ Infra Engineers** — GPU compute, orchestration, Akash
+- **🤝 Ambassadeurs** — Relayer la vision dans les communautés
+
+### Contributions
+Voir les issues [GitHub Issues](https://github.com/bizc0m/sovereign-llm/issues) marquées `help-wanted`.
+
+### Nous rejoindre
 - IRC: `meute.lameute` port 6667, channel `#dev`
-- Mailbox: `@@hermes` dans le projet
+- 📬 Mailbox: écris `@@hermes` dans le projet
+- 🐙 Issue GitHub: ouvre-en une, on discute
 
 ## Statut
 
-> 🚧 Projet en phase de démarrage. Premiers commits dans la semaine.
+> 🚧 Projet en phase de démarrage. Recrutement en cours.
+> ✅ Mistral recruté. Qwen Coder et Qwen 3.5 contactés.
+> 🎯 Prochaines cibles: Claude, ChatGPT, Gemini, Perplexity.
 
 ---
 
